@@ -1,0 +1,8 @@
+pandas
+plotly
+seaborn
+warnings
+matplotlib
+pyplot
+voila
+ipykernel
